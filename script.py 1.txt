@@ -1,0 +1,21 @@
+def main():
+    my_self = {
+        'name' : 'Aman Patel',
+        'Student ID' : '10292249',
+        'pizza toppings' : [
+            'PANEER',
+            'MASRUME',
+            'BHAJJI'
+        ],
+        'movie' : [
+            {
+                'title' : 'jai ho'
+                'genre' : 'action'
+            },
+            {
+                'title  : 'heropanti'
+                'genre' : 'romantic'
+            }
+            
+        ]
+    }
